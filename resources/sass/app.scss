@@ -64,7 +64,8 @@ body {
 }
 
 /* Topic Index Page */
-.topics-index-page {
+/* Topic Index Page */
+.topics-index-page, .categories-show-page {
   .topic-list {
     .nav>li>a {
       position: relative;
@@ -103,3 +104,4 @@ body {
 #app > div.container {
   margin-bottom: 100px;
 }
+
